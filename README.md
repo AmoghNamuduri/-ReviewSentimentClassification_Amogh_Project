@@ -97,5 +97,6 @@ This project is for educational purposes and is based on resources developed by 
 ---
 
 ## Contact
-For queries or feedback, please reach out to [Your Name/Email].
+For queries or feedback, please reach out to Amogh / abn5523@psu.edu
+
 
